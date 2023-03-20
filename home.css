@@ -1,0 +1,11 @@
+.imghome{
+    text-align:center;
+    color:#fff;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-position:center center;
+    background-size:cover
+}
+.imghome{
+    width: 100%;
+}
